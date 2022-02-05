@@ -3,12 +3,18 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2022-01-25 17:00:26 -0800
 categories: jekyll update
+published: false
 ---
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-hello
+This is a test to check if latex is working.
+
+$ X_{i} $
+$$ X_{i} $$
+$$e^{ix} = \cos{x} + i\sin{x}$$
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
