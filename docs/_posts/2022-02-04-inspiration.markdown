@@ -7,7 +7,7 @@ date:   2022-02-04 00:00:00 -0000
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-Here I will include a list of people and I must credit on anything I write.
+Here I will include a list of people I must credit on anything I write.
 
 
 **Damodaran's blog along with his books.**
